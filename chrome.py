@@ -1,8 +1,8 @@
 #####################################################################
-## github @umutbasal											   ##
-##																   ##
-## UMUT BASAL BLOG https://www.umutbasal.com 					   ##
-##																   ##
+## github @umutbasal                                               ##
+##                                                                 ##
+## UMUT BASAL BLOG https://www.umutbasal.com                       ##
+##                                                                 ##
 ## https://www.umutbasal.com/python-ile-tarayici-sifrelerini-alma/ ##
 #####################################################################
 import os
