@@ -1,5 +1,5 @@
 # Python_Browser_Steal
-Python ile Tarayı Şifrelerini Alma örnek https://www.umutbasal.com
+Python ile Tarayıcı Şifrelerini Alma örnek https://www.umutbasal.com
 
 Blog yazısı https://www.umutbasal.com/python-ile-tarayici-sifrelerini-alma/
 
